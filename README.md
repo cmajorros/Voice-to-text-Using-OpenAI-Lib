@@ -1,7 +1,5 @@
 # Voice-to-text-Using-OpenAI-Lib
 
-Sure! Here's the `README.md` file based on your provided code:
-
 ```markdown
 # YouTube Video Audio Transcription
 
