@@ -47,7 +47,7 @@ The function `audio_to_text(audio_path, model)` uses the Whisper model to conver
 
 ```python
 if __name__ == "__main__":
-    channel_url = "https://www.youtube.com/@Preset-io"
+    channel_url = "https://www.youtube.com/@yourchannel"
     video_urls = get_video_urls(channel_url)
     
     # Process videos from the channel
